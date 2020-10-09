@@ -10,12 +10,20 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1idxfz7WUbtvW7wW3GKCjwcYmyx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -31,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602251377274</updated>
-      <workItem from="1602251378343" duration="913000" />
+      <workItem from="1602251378343" duration="4085000" />
     </task>
     <servers />
   </component>
@@ -39,9 +47,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1602251412271">
+    <state x="433" y="117" width="489" height="568" key="NewPhpClassDialog" timestamp="1602263870612">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1602251412271" />
+    <state x="433" y="117" width="489" height="568" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1602263870612" />
+    <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1602263764859">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1602263764859" />
+    <state x="374" y="136" width="618" height="522" key="find.popup" timestamp="1602263823007">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="374" y="136" width="618" height="522" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1602263823007" />
   </component>
 </project>
