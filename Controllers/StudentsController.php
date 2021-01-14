@@ -7,9 +7,9 @@ use core\Controller;
 class StudentsController extends Controller
 {
 
-    public function indexAction()
+    public function studAction()
     {
-
+        $this->view->render('Студенти');
     }
 
     public function updateAction()

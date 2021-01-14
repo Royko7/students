@@ -2,12 +2,12 @@
 
 
 return [
-    'students/index' => [
+    'students/add' => [
         'controller' => 'students',
-        'action' => 'index'
+        'action' => 'stud'
     ],
     '' => [
         'controller' => 'main',
-        'action' => 'index'
+        'action' => 'main'
     ]
 ];
