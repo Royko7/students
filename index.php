@@ -3,6 +3,8 @@
 require 'lib/dev.php';
 
 use  core\Router;
+use Models\Students;
+
 spl_autoload_register(function ($class) {
 
     $path = str_replace('\\', '/', $class . '.php');
@@ -13,5 +15,6 @@ spl_autoload_register(function ($class) {
 });
 
 $router = new Router;
-
+//$m = new Students;
+//$m->getUsers();
 $router->run();

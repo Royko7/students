@@ -4,13 +4,17 @@
 namespace Models;
 
 
-class Students
+//use core\Db;
+use core\Model;
+
+class Students extends Model
 {
 
-
-    public function __construct()
+    public function getUsers()
     {
-//
+        $res = $this->db->row('SELECT * FROM users ');
+        return $res;
+//        debug($this->db);
     }
 
 }
