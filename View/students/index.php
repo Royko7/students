@@ -38,7 +38,7 @@
 <!--        <td>--><?//= $res[2] ?><!--</td>-->
 <!--        <td>--><?//=$res[3] ?><!--</td>-->
 <!--        <td><a href="students/read/--><?//=$id?><!--" class="btn btn-warning">Читати </a></td>-->
-<!--<!--        <td><a href="-->--><?php ////header('Location:students/read'); $_GET['id']?><!--<!--" class="btn btn-warning">Читати </a></td>-->-->
+<!--         <td><a href="--> <?php ////header('Location:students/read'); $_GET['id']?><!-- " class="btn btn-warning">Читати </a></td>-->
 <!--    </tr>-->
 <!--    --><?php
 //    }

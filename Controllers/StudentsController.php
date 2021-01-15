@@ -34,6 +34,7 @@ class StudentsController extends Controller
 
     public function updateAction()
     {
+        $this->view->render('Студенти');
 
     }
 
@@ -50,13 +51,11 @@ class StudentsController extends Controller
 
     }
 
-    public function editAction()
-    {
 
-    }
 
     public function deleteAction()
     {
+        $this->view->render('Студенти');
 
     }
 
